@@ -1,12 +1,29 @@
-结构生力理论/
-├── README.md                  # 概览、愿景、用途
+StructuralVitality/
+├── README.md                      # 概览（理论简介+目标+联系方式）
 ├── theory_overview.md        # 理论背景与意义
 ├── core_equations.md         # 核心公式与推导
-├── scale_mapping.md          # 多尺度适用性解释（原子/星系/日常）
-├── experimental_suggestions.md # 可验证实验方案
-├── consciousness_model.md    # 与意识/AI的关联
-├── images/                   # 插图、结构可视化
-└── LICENSE.md                # 可选，开源协议声明
+├── /docs/                         # 主体文档
+│   ├── overview.md                # 理论全景图（结构生力是什么）
+│   ├── principles.md              # 核心原理（结构对称+能量聚散+空间张力）
+│   ├── formulas.md                # 数学建模（公式发展过程与现阶段版本）
+│   ├── experiments.md             # 可验证实验（各尺度实验建议）
+│   ├── cosmology.md               # 宇宙学应用（超新星、黑洞、螺旋宇宙）
+│   ├── quantum_model.md           # 微观对应（微管、意识、量子结构生力）
+│   ├── ai_application.md          # AI模拟与建模路线图
+│   └── philosophy.md              # 哲学基础与宇宙观
+├── /media/                        # 图片、结构图、演示GIF
+│   └── ...
+├── /translations/                 # 多语言支持
+│   ├── README.zh.md               # 中文主页
+│   └── overview.zh.md             # 中文理论概览
+├── /papers/                       # 正式论文（PDF、LaTeX、预印本）
+│   ├── StructuralVitality_v1.pdf
+│   └── ...
+├── /videos/                       # 视频封面 + 视频脚本
+│   ├── video01_intro.md
+│   └── ...
+├── LICENSE                        # 开源协议（建议使用 CC BY-NC-SA 4.0）
+└── CONTRIBUTING.md                # 合作者指南（科学家、翻译志愿者等）
 🌌 Overview | 概览
 ## License
 
