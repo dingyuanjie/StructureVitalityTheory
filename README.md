@@ -8,7 +8,11 @@
 ├── images/                   # 插图、结构可视化
 └── LICENSE.md                # 可选，开源协议声明
 🌌 Overview | 概览
+## License
 
+This repository is licensed under **CC BY-NC-SA 4.0** — you may freely share and adapt the materials for non-commercial use, as long as proper attribution is given and derivative works follow the same license.
+
+Full license: [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 Structural Vital Force Theory is a conceptual physics framework that proposes:
 
 “Structure itself generates and sustains force.”
