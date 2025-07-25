@@ -117,3 +117,47 @@ This work is licensed under **CC BY-SA 4.0**:
 📺 YouTube: https://www.youtube.com/@313%E5%BA%B7 
 📜 本项目原作者 Original Author: **313**  
 
+# 结构生力原创者立场声明  
+## Declaration of the Structural Vitality Theory Originator
+
+---
+
+### 📌 中文版
+
+结构生力理论为本人自主提出，其核心在于揭示结构与生力之间的内在关系，旨在打通人类认知、自然科学与系统智能的整体观。
+
+本声明特此说明如下：
+
+1. 本人仅以“理论提出者”身份参与，不介入任何公司、机构、政党或国家的运营或控制。
+2. 本理论不授予任何单一商业实体独占权，未来所有应用与实践，均应尊重“开放、公平、共识”的原则。
+3. 本人不参与任何政治宣传、资本炒作或品牌代言行为，亦不会成为任何组织的话语工具。
+4. 理论若用于商业，请以尊重原创、尊重公共精神为前提，公开署名、不可篡改原意。
+5. 所有个人经济回报将以象征性方式体现，如奖金、资助、捐赠，绝不追求“财富绑定”。
+6. 本人未来可能选择隐退、归隐、不发声，此为个人意志的自然延续，亦请社会与历史给予尊重。
+
+若有合作意向，请知悉并接受以上前提。违背者，概不合作。
+
+此为正式公开声明，全球适用。
+
+---
+
+### 📌 English Version
+
+The Structural Vitality Theory is an original concept proposed solely by myself. Its essence lies in revealing the intrinsic connection between structure and vitality—bridging human cognition, natural science, and artificial general intelligence (AGI).
+
+I hereby state:
+
+1. I participate only as the **originator of the theory**, and will not be involved in the operation or control of any company, institution, party, or government.
+2. The theory **is not to be monopolized** by any single commercial entity. Any application must follow principles of **openness, fairness, and shared consensus**.
+3. I will **not engage in political propaganda, capital speculation, or brand endorsements**, nor serve as a mouthpiece for any organization.
+4. Commercial use of this theory must include proper **attribution**, **no distortion**, and **acknowledgment of its origin**.
+5. Any personal monetary gain shall be **symbolic only** (such as prizes, sponsorships, or donations). I will **not pursue wealth entanglement**.
+6. I may choose to **retreat from public life** or remain silent in the future. This is a personal, spiritual decision and should be respected.
+
+Anyone seeking collaboration must acknowledge and accept these principles. Otherwise, I will not cooperate.
+
+This is an official and global public declaration.
+
+---
+
+*© 2025 结构生力原创者（313）*
