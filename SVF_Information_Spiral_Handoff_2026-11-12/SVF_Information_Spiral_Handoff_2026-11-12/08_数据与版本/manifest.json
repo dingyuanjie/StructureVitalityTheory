@@ -1,0 +1,204 @@
+{
+  "package": "SVF_Information_Spiral_Handoff",
+  "version": "1.0",
+  "created_date": "2026-11-12",
+  "creator_originator": "丁元杰（313 / Ding Yuanjie）",
+  "compiler": "AI-assisted archival drafting",
+  "files": [
+    {
+      "path": "00_快速交接/01_给未来AI的简报.md",
+      "bytes": 3335,
+      "sha256": "acebf45aac37da875ccb803ef131bf51ac8d01c58ca482e85873cb8de56c8505"
+    },
+    {
+      "path": "00_快速交接/02_已知与未知.md",
+      "bytes": 2474,
+      "sha256": "aca0111450765d0bba4c496edfc504596cdc9a39ad207ecc881252985c2fb918"
+    },
+    {
+      "path": "01_历史与溯源/Research_Core_56轮索引.csv",
+      "bytes": 8885,
+      "sha256": "d697c042034264437e7b28b8397921da78791ff4e7e299bb26dae57e45aa77b9"
+    },
+    {
+      "path": "01_历史与溯源/Research_Core_56轮阅读指南.md",
+      "bytes": 1654,
+      "sha256": "0b7ade64e5ceb6fd3b29207197425da06ca7c1baa1195c5ff413d5a9087b2963"
+    },
+    {
+      "path": "01_历史与溯源/发展脉络与关键转向.md",
+      "bytes": 3295,
+      "sha256": "caca0fdf6ae5fc4b9758c1f844d43ed7a0d557b4c3f3a4f10a445713fa693b0f"
+    },
+    {
+      "path": "02_概念与公理候选/最小公理候选与反例.md",
+      "bytes": 3497,
+      "sha256": "01f1d10c7c9aa011562cc12e42575528992a0c38b226538641ebe3eba7f6417e"
+    },
+    {
+      "path": "02_概念与公理候选/术语与符号注册表.md",
+      "bytes": 4163,
+      "sha256": "665173a4e1e436c3f80eb7a4cfce388860ff79d44e6c19818715fa71a1e6bc82"
+    },
+    {
+      "path": "03_数学核心/指标操作化.md",
+      "bytes": 3166,
+      "sha256": "052b89deb386e34897471fcc1f621f40fe23d9289fd4e9059cb1ce4a3bdf1011"
+    },
+    {
+      "path": "03_数学核心/数学命题与证明.md",
+      "bytes": 6290,
+      "sha256": "536e35f2f3c2dacd2dd2c9ee31760d8f66fc68b5f947bc08d8b0f882841b3a59"
+    },
+    {
+      "path": "03_数学核心/统一模型规范.md",
+      "bytes": 6263,
+      "sha256": "d5ab7a906060c94e20a4f53d7d23a944a65ff852d5fc16d631c788897aad85e1"
+    },
+    {
+      "path": "03_数学核心/虚拟宇宙递归与资源边界.md",
+      "bytes": 4554,
+      "sha256": "fa6ebf4c2d540bf651ab4bf0ae37ea5566d3b6e2ea0b5ecb5d32b17f22b3ba7e"
+    },
+    {
+      "path": "03_数学核心/跨领域共同模型与失败模式.md",
+      "bytes": 2439,
+      "sha256": "0d41f7ca401c318ae6bb5c6e9249aaa2e958b976108ee49433115b395d9e1e03"
+    },
+    {
+      "path": "04_跨学科结构库/160种共同结构.csv",
+      "bytes": 34504,
+      "sha256": "f39db8a808f3b2bd83ad9a912721a845d5bf0a5974484619a4d028f2d4b282b3"
+    },
+    {
+      "path": "04_跨学科结构库/160种共同结构.md",
+      "bytes": 15109,
+      "sha256": "4143dc2dfed45e36a26536133ee8d4ae3acc9c4cfc0cfa57e9c424269312794f"
+    },
+    {
+      "path": "04_跨学科结构库/离线检索160结构.html",
+      "bytes": 27560,
+      "sha256": "3aa5f164e6ac3f6e3c6b7a6f516759a24e7a806a581892e87979235ae8e33299"
+    },
+    {
+      "path": "04_跨学科结构库/结构库使用方法.md",
+      "bytes": 2359,
+      "sha256": "7356ebf52071f27abcba6d373fb19907cb757cdf9830c6818521b06f9fc6dbb2"
+    },
+    {
+      "path": "05_工程与实验/IST_SVF工程证据账本.md",
+      "bytes": 4620,
+      "sha256": "2de44ac9f0d0d72ffc0ab4324a9d0e8ca3320f0836d7afb454907e5579520d91"
+    },
+    {
+      "path": "05_工程与实验/code/finite_state.py",
+      "bytes": 573,
+      "sha256": "1e9f154f472f846aab213e53adbdeb4ee65aad141f3f8d9f0dfaaf79b90c254a"
+    },
+    {
+      "path": "05_工程与实验/code/lumpability.py",
+      "bytes": 1215,
+      "sha256": "9ef351b47bbe6a8202b34515b50d519a620d5f4bea44076ecd4efc35ed258dd6"
+    },
+    {
+      "path": "05_工程与实验/code/nested_worlds.py",
+      "bytes": 1890,
+      "sha256": "bba3ab5fad3fc274b3b01ae17cdd25ed80b5e4f8bd0e6fb13b5c7f35af682da7"
+    },
+    {
+      "path": "05_工程与实验/code/rule90.py",
+      "bytes": 840,
+      "sha256": "82f192a3eaed3c4d2b22b5369d3f024d1b57497698b49c75fa2f06f5397c5fe8"
+    },
+    {
+      "path": "05_工程与实验/code/run_all.py",
+      "bytes": 465,
+      "sha256": "fca04d226ea2b15005ff960dae2d5aa721cf095a08a8c43017ee7f8fac471d2a"
+    },
+    {
+      "path": "05_工程与实验/实验协议与可证伪假设.md",
+      "bytes": 4412,
+      "sha256": "cd1f860d0a7f32b835c8d80631dfb7c9619ba0a32e358687699011608d66c0ff"
+    },
+    {
+      "path": "05_工程与实验/实验复现核对清单.md",
+      "bytes": 1202,
+      "sha256": "f09785aeff62dd58d2d8431bd8eaf607197979e65f7f1fd97087db7a10e538f7"
+    },
+    {
+      "path": "06_未来接力/AI提示词合集.md",
+      "bytes": 3539,
+      "sha256": "83cf7510eb5022996fd7f3dd1879a403adee8acc8b289ff591d59f524d66f1cd"
+    },
+    {
+      "path": "06_未来接力/接手协议.md",
+      "bytes": 2444,
+      "sha256": "af277f71f4c344b375c6304ce0df96e951493dc30bccb60e9f3a7bb38c0e932e"
+    },
+    {
+      "path": "06_未来接力/未解问题优先级.md",
+      "bytes": 4284,
+      "sha256": "03f9e80f83c3eeae5beb1684142857bc9ed4672acedb15c59ec819d9f49a6b5a"
+    },
+    {
+      "path": "06_未来接力/研究路线图.md",
+      "bytes": 1861,
+      "sha256": "49800059c6382e2b1b3452eb993487c61d611b69c11a6977b342a81539ab8252"
+    },
+    {
+      "path": "07_文献与原始资料/原件/SVF_Theory_Open_License.md",
+      "bytes": 14133,
+      "sha256": "da095f48e8a17707f6064de4241ff76ac9c01fc9e56e495081621a706b281174"
+    },
+    {
+      "path": "07_文献与原始资料/原件/结构生力理论发展史_2025-2026_史料校核长编.md",
+      "bytes": 40431,
+      "sha256": "2fd0e247a2bc4ff385f7eb0b92303a1b240d0de9493e8d632df0be051eee413f"
+    },
+    {
+      "path": "07_文献与原始资料/参考文献.md",
+      "bytes": 3492,
+      "sha256": "8f4ab2aeb35e7e7d6de522ffb0280699daf10453e8d4285a60a8b53aeba3473f"
+    },
+    {
+      "path": "08_数据与版本/claim_registry.csv",
+      "bytes": 2808,
+      "sha256": "83da7d310a20d39efbcb091faf9f826243cd7c277b53a61d64a12516c01d6267"
+    },
+    {
+      "path": "08_数据与版本/交接验证报告.md",
+      "bytes": 1190,
+      "sha256": "bc52d3d93af7115a46d6425ee685f4b3e80b46e6b7927e9df4b74fa84eb62eab"
+    },
+    {
+      "path": "08_数据与版本/来源与可靠性说明.md",
+      "bytes": 1403,
+      "sha256": "8c8e4cef5ae632194ca1bfb4e1b1d6e3190fbdbe96ae0b95f57938a3b7ec37cb"
+    },
+    {
+      "path": "08_数据与版本/证据标签规则.md",
+      "bytes": 1446,
+      "sha256": "3341d0f965ecfaa13bdb4c5e332feef2bb0c76c983f3ba11f904506f49337201"
+    },
+    {
+      "path": "MASTER_研究交接总论.md",
+      "bytes": 68776,
+      "sha256": "317d86c4f4afa86f1d434777f99fc64aa99d72b130675228eece89889d93046a"
+    },
+    {
+      "path": "README_从这里开始.md",
+      "bytes": 5691,
+      "sha256": "d7696a6e94cbd0bd2f7ea6643bfa9424e03df549f1c90553beec9d225d6fd1a6"
+    }
+  ],
+  "file_count": 37,
+  "atlas_entries": 160,
+  "research_core_rounds_indexed": 56,
+  "core_research_verified_individually": false,
+  "limitations": [
+    "original source files retained",
+    "no complete 56-round reproduction",
+    "no proof of universal physical theory",
+    "old licensing conflicts must be resolved per file"
+  ]
+}
