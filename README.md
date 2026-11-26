@@ -108,7 +108,7 @@ This work is licensed under **CC BY-SA 4.0**:
 - 任何衍生作品需同样开源共享  
 
 [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)  
-
+[![DOI](https://zenodo.org/badge/github/1015691104.svg)](https://doi.org/10.5281/zenodo.24559004)
 ---
 
 ## 🌐 联系 / Contact
